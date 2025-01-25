@@ -205,5 +205,9 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+Databases that I encounter in my day-to-day work include healthcare data. These databases are often designed to represent the general population and may fail to fully capture the experiences of underprivileged communities. This can create significant gaps in representation. Many individuals in these communities may face barriers to accessing healthcare, including financial limitations, lack of insurance, geographic isolation, or other social factors. These factors often contribute to these populations being excluded from regular healthcare visits. Morever, this can result in marginilized groups not being adequantely informed about ongoing studies or clinical trials. This lack of representation can lead to significant gaps in the data, which, when analyzed, can result in skewed outcomes that do not reflect the needs or experiences of marginalized communities. 
+
+Moreover, when data from underprivileged groups is absent or limited, healthcare providers, policymakers, and researchers may base their decisions on information that doesn’t reflect the real-world experiences of these populations. For example, clinical trials that primarily involve individuals from higher socioeconomic backgrounds may yield results that are not applicable to low-income or rural populations, leading to ineffective or biased medical treatments. Additionally, healthcare systems may prioritize interventions that disproportionately benefit more privileged groups, further entrenching existing health disparities.
+
+The skewed nature of this data often perpetuates a cycle where marginalized communities continue to receive suboptimal care. By failing to include diverse voices in medical research and healthcare databases, we risk reinforcing systemic inequities. It’s crucial to actively address these data gaps to ensure that healthcare systems are more inclusive and equitable, ultimately leading to better health outcomes for all individuals, regardless of their socioeconomic status.
 ```
