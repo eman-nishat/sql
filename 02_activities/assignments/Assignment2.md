@@ -54,7 +54,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1 architecture would overwrite existing data. An example table design would include the following columns: customer_id, address, city, state, country, postal_code.  Type 2 architecture would retain existing data and add new rows any time new information regarding customer addresses is added. A type 2 table design would include the following columns: customer_id, address, city, state, country, postal_code, status. The "status" column would indicate whether this is the current or previous address of the customer.
 ```
 
 ***
@@ -182,5 +182,5 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+The main idea of this article is that the decision-making process involved in machine learning is based on human choices. Each step in building neural nets, from data curation to designing the algorithm, requires manual labour which is often performed by underpaid workers who receive little recognition. This raises several ethical concerns, such as labour exploitation as the creation of neural nets relies on extensive labour from several workers that are often underpaid and do not receive the recognition they deserve. Additionally, since training data is harvested from content on the internet which is inherently biased, the models learn to propagate these biases. Furthermore, the rapid proliferation of large language models by a few dominant tech companies centralizes power, complicates transparent content moderation, and raises significant concerns about accountability and free speech. Overall, the intersection of technology and society demands a more equitable, transparent approach that addresses both the ethical treatment of labor and the systemic biases embedded within these systems.
 ```
